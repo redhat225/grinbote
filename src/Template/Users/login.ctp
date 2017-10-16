@@ -1,3 +1,4 @@
+<?php $this->layout="default" ?>
 <div class="container">
 		<div class="container">
 			<h4 class="white-text accc-row-padding">Institut Grin d'Boté Prestige</h5>
