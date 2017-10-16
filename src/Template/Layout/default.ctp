@@ -12,7 +12,7 @@
  * @since         0.10.0
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
-$dmpDesc="Dossier Médical Personnel";
+$dmpDesc="Grind'Boté Prestige: Plateforme de tests";
 ?>
 <!DOCTYPE html>
 <html>
@@ -22,7 +22,7 @@ $dmpDesc="Dossier Médical Personnel";
     <title>
         <?= $dmpDesc; ?>
     </title>
-    <?= $this->Html->meta('icon','dmp1.ico') ?>
+    <?= $this->Html->meta('icon','grin.ico') ?>
 
     <?= $this->Html->css('Assets/ionicons-2.0.1/css/ionicons.css') ?>
     <?= $this->Html->css('../js/Materialize/bin/materialize.css') ?>
